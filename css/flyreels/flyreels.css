@@ -1,0 +1,67 @@
+body {
+    margin: 10px;
+    border: 10px;
+    padding-bottom: 400px;
+    position: sticky;
+    background-image: url("../../images/DJI_0333.JPG");
+}
+
+.backButton {
+    font-size: x-large;
+    padding: 1px;
+    text-align: left;
+    position: fixed;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 4px;
+}
+
+img {
+
+    height: 250px;
+    width: 250px;
+    border: solid;
+    background-color: black;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+img:hover {
+    opacity: .50;
+}
+
+
+h2 {
+    color: midnightblue;
+    background-color: bisque;
+    border-radius: 25px;
+    padding: 3px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+h3 {
+    background-color: aquamarine;
+    padding: 3px;
+    border-radius: 2px;
+    width: fit-content;
+}
+
+.backButton:hover {
+    opacity: .50;
+}
+
+#myCart {
+    margin-top: 40px;
+    position: fixed;
+}
+
+#cartImage {
+    width: 50px;
+    height: 50px;
+}
+
+#table {
+    margin-left: auto;
+    margin-right: auto;
+}

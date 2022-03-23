@@ -1,0 +1,70 @@
+body {
+    background-color: bisque;
+}
+
+.desc {
+    background-color: cadetblue;
+    margin: auto;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.imageClass {
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.reelProp {
+    font-size: x-large;
+    margin-bottom: 400px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: darkgray;
+    margin: auto;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.price {
+    background-color: rgb(133, 190, 27);
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.backButton {
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: x-large;
+    margin-right: 1300px;
+    padding: 1px;
+    text-decoration: none;
+    text-align: left;
+    position: relative;
+    background-color: aquamarine;
+    color: black;
+}
+
+.backButton:hover {
+    opacity: .50;
+}
+
+body {
+    text-align: center;
+}
+
+.line {
+    color: transparent;
+    margin-top: 30px;
+}
+
+#itemTable {
+    margin: auto;
+}
+
+.addToCartButton {
+    margin-top: 20px;
+    border-radius: 2px;
+}

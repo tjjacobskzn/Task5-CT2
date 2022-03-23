@@ -1,0 +1,150 @@
+.deleteButton {
+    color: blue;
+}
+
+.backButton:hover {
+    opacity: .50;
+}
+
+table {
+    margin-left: 30px;
+}
+
+.backButton {
+    margin-top: 40px;
+    font-size: x-large;
+    margin-right: 1300px;
+    padding: 1px;
+    text-align: left;
+    position: relative;
+    background-color: aquamarine;
+    color: black;
+}
+
+body {
+    text-align: left;
+    margin: 10px;
+    border: 10px;
+    padding-bottom: 200px;
+    position: sticky;
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+
+img {
+
+    height: 150px;
+    width: 150px;
+    border: solid;
+    background-color: black;
+    padding: 1px;
+    border-radius: 5px;
+    border-top-color: fuchsia;
+
+}
+
+img:hover {
+    opacity: .50;
+}
+
+
+h2 {
+    color: black;
+    background-color: #e7820a;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+#myCartHead {
+    text-align: center;
+}
+
+#newData {
+    font-size: large;
+    border: solid 1px;
+}
+
+#voucherInput {
+    border: solid;
+    background: transparent;
+    font-size: larger;
+    margin-top: 10px;
+}
+
+#voucherLable {
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+#cartDiv {
+    margin-top: 40px;
+    border: solid;
+    width: 300px;
+    padding: 15px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+#subTotalItems {
+    padding-top: 5px;
+}
+
+#vatItems {
+    padding-top: 3px;
+}
+
+#discountItems {
+    padding-top: 3px;
+}
+
+#deliveryItems {
+    padding-top: 3px;
+}
+
+#toTal {
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 20px;
+    text-align: right;
+    width: 400px;
+}
+
+
+#placeOrderButton :hover {
+    opacity: .50;
+}
+
+button:hover {
+    background-color: rgb(240, 8, 0);
+    border: solid 3px;
+}
+
+.hLine {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#DeliverHeading {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#deliveryHtml {
+    margin-bottom: 30px;
+}
+
+#placeOrderButton {
+    margin-top: 30px;
+}
+
+#submitButton {
+    margin-top: 5px;
+}
+
+.lastLine {
+    margin-top: 200px;
+}
