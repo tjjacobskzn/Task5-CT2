@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link href="../../css/carTcss/cart.css" rel="stylesheet" type="text/css">
+    <title>My Cart</title>
+</head>
+
+<body>
+
+    <!-- This button will return the user to the main page -->
+    <a id="backButton" href="../flyreels/flyreels.html" class="backButton">Back</a>
+
+    <h2 id="myCartHead">My Cart</h2>
+    <hr>
+
+    <!-- these bottons function with jQuery-->
+    <button id="showButton">Show Items</button>
+    <button id="hideButton">Hide Items</button>
+    <button id="shakeButton">Shake Cart</button>
+
+    <hr>
+
+    <!-- all cart items are appended to this table -->
+    <table id="cartTable"></table>
+
+    <!-- this div is used to move it's content around -->
+    <div style="margin-left: 50%;">
+
+        <h3 id="DeliverHeading">Delivery options</h3>
+        <select id="deliveryHtml"></select>
+
+        <div id="voucherDiv">
+            <label id="voucherLable">Input Coupon Code : </label> <br>
+            <input type="text" id="voucherInput" placeholder="hello"><br>
+            <button id="submitButton">Submit</button>
+        </div>
+
+
+        <div id="cartDiv">
+            <table id="ItemCostTable"></table>
+
+            <table id="costTable">
+                <tr>
+                    <td id="subTotalItems"> </td>
+                </tr>
+                <tr>
+                    <td id="vatItems"> </td>
+                </tr>
+                <tr>
+                    <td id="discountItems"> </td>
+                </tr>
+                <tr>
+                    <td id="deliveryItems">Please choose delivery option</td>
+                </tr>
+
+                <tr>
+                    <td id="toTal"> </td>
+                </tr>
+            </table>
+        </div>
+
+        <button id="placeOrderButton" disabled>Place Order</button>
+
+    </div>
+
+    <hr class="lastLine">
+    <script type='text/javascript' src="../../JS/cartJs/cart.js"></script>
+</body>
+
+</html>
