@@ -7,7 +7,8 @@
 1 : Project description.  
 2 : Local installation of Code.  
 3 : How to use Project.  
-4 : Creddits.  
+4 : Credits.   
+5 : Product Screenshots.      
   
 [ 1 ]  
 This project is a basic website with a landing page, a catalogue page and a cart page. It has 5 items . An item can be added and removed from cart. The cart calculates a total including VAT, gives delivery options and allows for a discount code. The project is my Biggest leap into coding on level 1 and can be used in my portfolio.    
@@ -20,3 +21,23 @@ To use this project open the folder named "html". There will be numerous sub-fol
 
 [ 4 ]  
 This project was coded by me with help from mentors and lecturers from HyperionDev.
+
+[ 5 ] `Screenshots` of this site in action.
+
+<img src="./page screenshots/Screenshot (145).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (146).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (147).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (148).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (149).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (150).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (151).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (152).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (153).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (154).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (155).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (156).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (157).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (158).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (159).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (160).png" alt="screenshots">
+<img src="./page screenshots/Screenshot (161).png" alt="screenshots">
